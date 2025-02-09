@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --primary-color: #fc7f09;
+  --primary-color: #ff0000;
   --primary-color-light: #fffcfa;
-  --primary-color-dark: #db6e09;
+  --primary-color-dark: #7a0c0c;
   --text-dark: #18181b;
   --text-light: #6b7280;
   --white: #ffffff;
@@ -169,7 +169,7 @@ nav {
 }
 
 .header__content h1 span {
-  color: var(--primary-color);
+  color: red;
 }
 
 .header__content .section__description {
@@ -375,7 +375,7 @@ nav {
   height: 100%;
   width: 100%;
   max-width: 500px;
-  background-color: var(--primary-color);
+  background-color: white;
   border-radius: 100%;
   z-index: -1;
 }
